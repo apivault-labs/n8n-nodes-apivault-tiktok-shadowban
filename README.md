@@ -68,3 +68,15 @@ Billed per check through Apify (pay-per-event): **$10 / 1,000 videos** ($0.01 ea
 ## Keywords
 
 `tiktok` `tiktok-shadow-ban` `tiktok-shadowban-checker` `shadow-ban-detection` `tiktok-fyp-checker` `creator-analytics` `tiktok-video-health` `engagement-rate` `brand-safety` `n8n` `apify`
+
+<!-- apivault-integrations:start -->
+## Hosted Actor and integrations
+
+- [Run TikTok Shadow Ban Checker — Bulk Video CSV API on Apify](https://apify.com/apivault_labs/tiktok-shadow-ban-checker).
+- [Current pricing and usage terms](https://apify.com/apivault_labs/tiktok-shadow-ban-checker/pricing).
+- [n8n community package: n8n-nodes-apivault-tiktok-shadowban](https://www.npmjs.com/package/n8n-nodes-apivault-tiktok-shadowban).
+- [Python client](https://github.com/apivault-labs/tiktok-shadow-ban-checker-python).
+- [n8n source and usage](https://github.com/apivault-labs/apivault-labs/tree/main/community-nodes/n8n-nodes-apivault-tiktok-shadowban).
+
+An Apify account and API token are required. Hosted Actor/platform charges apply. npm publication is not n8n verification or confirmation of n8n Cloud availability.
+<!-- apivault-integrations:end -->
